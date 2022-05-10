@@ -8,4 +8,5 @@ Therefore I will put here my experience of creating this structure and will try 
 
 PreImage of P2PKH transaction of ForkID 41 type
 
-[BSV TX V3.pdf](https://github.com/carlosamcruz/BSV-TX-PREIMAGE-TUTORIAL/files/8663086/BSV.TX.V3.pdf)
+[BSV TX V3 (1).pdf](https://github.com/carlosamcruz/BSV-TX-PREIMAGE-TUTORIAL/files/8664989/BSV.TX.V3.1.pdf)
+
