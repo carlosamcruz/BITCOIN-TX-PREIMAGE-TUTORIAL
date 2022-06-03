@@ -13,3 +13,5 @@ PreImage of P2PKH transaction of ForkID 41 type
 Explorando os Detalhes das Transações no Protocolo Bitcoin - Aula 01 - https://youtu.be/vIfcjOXMMAk
 
 [Cracking-TXBSV-Aula 01.pdf](https://github.com/carlosamcruz/BSV-TX-PREIMAGE-TUTORIAL/files/8824889/Cracking-TXBSV-Aula.01.pdf)
+
+EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
