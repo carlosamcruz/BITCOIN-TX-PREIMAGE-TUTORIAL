@@ -89,3 +89,5 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 [35] NSA (2016). Commercial National Security Algorithm Suite and Quantum Computing FAQ. U.S. National Security Agency.
 
 [36] Sendrier, N. (2017). Code-based cryptography: State of the art and perspectives. IEEE Security and Privacy, 15(4):44–50. DOI: 10.1109/MSP.2017.3151345.
+
+[37] SatoLearn. https://www.satolearn.com/
