@@ -16,7 +16,7 @@ Explorando os Detalhes das Transações no Protocolo Bitcoin - Aula 01 - https:/
 
 EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 
-References
+# References
 
 [1] C. S. Wright (Satoshi Nakamoto). Bitcoin: A Peer-to-Peer Electronic Cash System. 2008. - https://www.bitcoinsv.io/bitcoin.pdf
 
