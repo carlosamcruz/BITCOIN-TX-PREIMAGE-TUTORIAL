@@ -93,3 +93,7 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 [37] SatoLearn. https://www.satolearn.com/
 
 [38] sCrypt. Introduction to Bitcoin Smart Contracts. Jun 17, 2020. https://xiaohuiliu.medium.com/introduction-to-bitcoin-smart-contracts-9c0ea37dc757
+
+[39] GorillaPool MAPI. https://merchantapi.gorillapool.io/
+
+[40] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
