@@ -98,4 +98,4 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 
 [40] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
 
-[41] Introducing Solidity to sCrypt Transpiler. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
+[41] Introducing Solidity to sCrypt Transpiler. Run Ethereum Smart Contracts on Bitcoin. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
