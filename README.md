@@ -96,7 +96,7 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 
 [39] GorillaPool MAPI. https://merchantapi.gorillapool.io/
 
-[40] Merchant API. https://mapi.gorillapool.io/swagger/#/Mapi/post_mapi_tx
+[40] Merchant API - Swagger UI - Mapi. https://mapi.gorillapool.io/swagger/#/Mapi/post_mapi_tx
 
 [41] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
 
