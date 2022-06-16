@@ -96,6 +96,8 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 
 [39] GorillaPool MAPI. https://merchantapi.gorillapool.io/
 
-[40] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
+[40] Merchant API. https://mapi.gorillapool.io/swagger/#/Mapi/post_mapi_tx
 
-[41] Introducing Solidity to sCrypt Transpiler. Run Ethereum Smart Contracts on Bitcoin. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
+[41] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
+
+[42] Introducing Solidity to sCrypt Transpiler. Run Ethereum Smart Contracts on Bitcoin. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
