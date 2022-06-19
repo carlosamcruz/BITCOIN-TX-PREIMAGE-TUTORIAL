@@ -101,3 +101,5 @@ EDTX Protocolo Bitcoin - Aula 02 - Pre Imagem https://youtu.be/oZ9bhsQMV1U
 [41] mAPI Specification. https://github.com/bitcoin-sv-specs/brfc-merchantapi
 
 [42] Introducing Solidity to sCrypt Transpiler. Run Ethereum Smart Contracts on Bitcoin. https://xiaohuiliu.medium.com/introducing-solidity-to-scrypt-transpiler-a0a6907bb3ef
+
+[43] bitaddress. Oline Bitcoin Address Gernerator. https://www.bitaddress.org/
